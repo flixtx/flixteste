@@ -3,7 +3,7 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referer=https://embedcanaistv.site/
 #EXTVLCOPT:http-origin=https://embedcanaistv.site
-https://embedcanaistv.site/hbo2/index.m3u8
+https://embedcanaistv.site/hbo2/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Example2" tvg-name="Exemplo 2" tvg-logo="https://exemplo.com/logo2.png" group-title="Canais",Exemplo 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
